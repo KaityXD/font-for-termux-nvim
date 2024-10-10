@@ -1,1 +1,1 @@
-mv font.ttf ~/.termux/font.ttf
+mv CaskaydiaCoveNerdFont-Regular.ttf ~/.termux/font.ttf
